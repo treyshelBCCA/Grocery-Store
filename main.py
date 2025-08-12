@@ -7,3 +7,6 @@ name = input("Name of person watching incognito videos: ")
 print(name)
 
 print(f"{name} BCCA")
+
+age = input("How old are you? ")
+print(f"{name} is {age} years old!")
